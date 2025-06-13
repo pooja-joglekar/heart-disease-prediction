@@ -35,7 +35,7 @@ This project predicts the presence of heart disease in a patient using various m
    git clone https://github.com/your-username/heart-disease-prediction.git
    cd heart-disease-prediction
 
-##📎License
+## 📎License
 
--This project is open-source and available under the MIT License.
+- This project is open-source and available under the MIT License.
    
