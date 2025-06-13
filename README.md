@@ -36,5 +36,6 @@ This project predicts the presence of heart disease in a patient using various m
    cd heart-disease-prediction
 
 ##📎License
-This project is open-source and available under the MIT License.
+
+-This project is open-source and available under the MIT License.
    
